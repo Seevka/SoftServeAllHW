@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftServeHW5", "SoftServeHW5\SoftServeHW5.csproj", "{11CF7395-2653-4D57-A0BE-43FFA64EAA00}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11CF7395-2653-4D57-A0BE-43FFA64EAA00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11CF7395-2653-4D57-A0BE-43FFA64EAA00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11CF7395-2653-4D57-A0BE-43FFA64EAA00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11CF7395-2653-4D57-A0BE-43FFA64EAA00}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6F92D2C-01D1-4735-B1CF-63C014BA740E}
+	EndGlobalSection
+EndGlobal
